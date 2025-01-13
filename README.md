@@ -1,3 +1,3 @@
 # merge-together
-Today is Monday.
-It's also January 13th 2025
+Tmr is Tuesday.
+It's also January 14th 2025
