@@ -1,3 +1,3 @@
 # merge-together
-today is Monday
-Todays date is January 13th 2025
+Today is Monday.
+It's also January 13th 2025
